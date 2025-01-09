@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bledyLogiczne3/1.0.0": {
+        "runtime": {
+          "bledyLogiczne3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bledyLogiczne3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

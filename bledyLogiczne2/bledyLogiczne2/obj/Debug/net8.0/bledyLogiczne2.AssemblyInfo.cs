@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bledyLogiczne2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea2d4bab9fc7b4ca37f430da729c8966fec095e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45208c2f6a50ca023b0cd29b93f7a5987a9062ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("bledyLogiczne2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bledyLogiczne2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
