@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7B40E949-37A3-4774-92F9-85849F25B59B}|licznik\\licznik.esproj|solutionrelative:licznik\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\4m\\source\\repos\\licznik\\licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B40E949-37A3-4774-92F9-85849F25B59B}|licznik\\licznik.esproj|c:\\users\\4m\\source\\repos\\licznik\\licznik\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7B40E949-37A3-4774-92F9-85849F25B59B}|licznik\\licznik.esproj|solutionrelative:licznik\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "c:\\Users\\4m\\source\\repos\\licznik\\licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "c:\\Users\\4m\\source\\repos\\licznik\\licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "licznik\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAD9pAAAAAAAAAAASwFFpAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T07:33:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\licznik\\licznik\\src\\index.css",
               "RelativeDocumentMoniker": "licznik\\src\\index.css",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\licznik\\licznik\\index.html",
               "RelativeDocumentMoniker": "licznik\\index.html",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\licznik\\licznik\\src\\main.jsx",
               "RelativeDocumentMoniker": "licznik\\src\\main.jsx",
@@ -76,7 +93,7 @@
               "RelativeDocumentMoniker": "licznik\\src\\App.jsx",
               "ToolTip": "C:\\Users\\4m\\source\\repos\\licznik\\licznik\\src\\App.jsx",
               "RelativeToolTip": "licznik\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-12T12:09:57.088Z",
               "EditorCaption": ""
