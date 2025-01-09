@@ -1,0 +1,15 @@
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\bin\Debug\net8.0\bledyLogiczne.exe
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\bin\Debug\net8.0\bledyLogiczne.deps.json
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\bin\Debug\net8.0\bledyLogiczne.runtimeconfig.json
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\bin\Debug\net8.0\bledyLogiczne.dll
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\bin\Debug\net8.0\bledyLogiczne.pdb
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.AssemblyInfoInputs.cache
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.AssemblyInfo.cs
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.csproj.CoreCompileInputs.cache
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.sourcelink.json
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.dll
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\refint\bledyLogiczne.dll
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.pdb
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\bledyLogiczne.genruntimeconfig.cache
+C:\Users\4m\source\repos\bledyLogiczne\bledyLogiczne\obj\Debug\net8.0\ref\bledyLogiczne.dll
