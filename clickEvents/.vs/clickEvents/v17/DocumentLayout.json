@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\source\\repos\\clickEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1650DE3C-C36F-4C79-B4E9-EF04DDE11524}|clickEvents\\clickevents.esproj|c:\\users\\gamer\\source\\repos\\clickevents\\clickevents\\src\\button.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1650DE3C-C36F-4C79-B4E9-EF04DDE11524}|clickEvents\\clickevents.esproj|solutionrelative:clickevents\\src\\button.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1650DE3C-C36F-4C79-B4E9-EF04DDE11524}|clickEvents\\clickevents.esproj|c:\\users\\gamer\\source\\repos\\clickevents\\clickevents\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1650DE3C-C36F-4C79-B4E9-EF04DDE11524}|clickEvents\\clickevents.esproj|solutionrelative:clickevents\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\clickEvents\\clickevents\\src\\App.jsx",
+              "RelativeDocumentMoniker": "clickevents\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\clickEvents\\clickevents\\src\\App.jsx",
+              "RelativeToolTip": "clickevents\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T15:12:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.jsx",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\clickEvents\\clickevents\\src\\Button.jsx",
+              "RelativeDocumentMoniker": "clickevents\\src\\Button.jsx",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\clickEvents\\clickevents\\src\\Button.jsx",
+              "RelativeToolTip": "clickevents\\src\\Button.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T15:08:08.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
