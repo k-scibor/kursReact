@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\warunki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|c:\\users\\4m\\source\\repos\\warunki\\warunki\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|solutionrelative:warunki\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|c:\\users\\4m\\source\\repos\\warunki\\warunki\\src\\usergreeting.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|solutionrelative:warunki\\src\\usergreeting.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|c:\\users\\4m\\source\\repos\\warunki\\warunki\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|solutionrelative:warunki\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|c:\\users\\4m\\source\\repos\\warunki\\warunki\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23C6C479-2D04-460E-95F6-F1B6527C75B5}|warunki\\warunki.esproj|solutionrelative:warunki\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\index.css",
+              "RelativeDocumentMoniker": "warunki\\src\\index.css",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\index.css",
+              "RelativeToolTip": "warunki\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T07:15:03.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\main.jsx",
+              "RelativeDocumentMoniker": "warunki\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\main.jsx",
+              "RelativeToolTip": "warunki\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T07:08:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserGreeting.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\UserGreeting.jsx",
+              "RelativeDocumentMoniker": "warunki\\src\\UserGreeting.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\UserGreeting.jsx",
+              "RelativeToolTip": "warunki\\src\\UserGreeting.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T07:06:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\App.jsx",
+              "RelativeDocumentMoniker": "warunki\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\warunki\\warunki\\src\\App.jsx",
+              "RelativeToolTip": "warunki\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T07:04:35.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

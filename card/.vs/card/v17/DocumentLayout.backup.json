@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\card\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|c:\\users\\4m\\source\\repos\\card\\card\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|solutionrelative:card\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|c:\\users\\4m\\source\\repos\\card\\card\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|solutionrelative:card\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|c:\\users\\4m\\source\\repos\\card\\card\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1670DD53-8AD9-4908-9E0E-ACB51C527E7D}|card\\card.esproj|solutionrelative:card\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\index.css",
+              "RelativeDocumentMoniker": "card\\src\\index.css",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\index.css",
+              "RelativeToolTip": "card\\src\\index.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-22T07:58:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\Card.jsx",
+              "RelativeDocumentMoniker": "card\\src\\Card.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\Card.jsx",
+              "RelativeToolTip": "card\\src\\Card.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:38:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\App.jsx",
+              "RelativeDocumentMoniker": "card\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\card\\card\\src\\App.jsx",
+              "RelativeToolTip": "card\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:38:31.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

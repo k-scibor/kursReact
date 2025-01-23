@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\listy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C220357-A985-4594-B285-00F7EDE80BE8}|listy\\listy.esproj|c:\\users\\4m\\source\\repos\\listy\\listy\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5C220357-A985-4594-B285-00F7EDE80BE8}|listy\\listy.esproj|solutionrelative:listy\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C220357-A985-4594-B285-00F7EDE80BE8}|listy\\listy.esproj|c:\\users\\4m\\source\\repos\\listy\\listy\\src\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5C220357-A985-4594-B285-00F7EDE80BE8}|listy\\listy.esproj|solutionrelative:listy\\src\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\listy\\listy\\src\\List.jsx",
+              "RelativeDocumentMoniker": "listy\\src\\List.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\listy\\listy\\src\\List.jsx",
+              "RelativeToolTip": "listy\\src\\List.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T07:26:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\listy\\listy\\src\\App.jsx",
+              "RelativeDocumentMoniker": "listy\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\listy\\listy\\src\\App.jsx",
+              "RelativeToolTip": "listy\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T07:26:29.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

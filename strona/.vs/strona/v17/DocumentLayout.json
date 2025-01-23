@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\strona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|c:\\users\\4m\\source\\repos\\strona\\strona\\src\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|solutionrelative:strona\\src\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|c:\\users\\4m\\source\\repos\\strona\\strona\\src\\food.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|solutionrelative:strona\\src\\food.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|c:\\users\\4m\\source\\repos\\strona\\strona\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|solutionrelative:strona\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|c:\\users\\4m\\source\\repos\\strona\\strona\\src\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|solutionrelative:strona\\src\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|c:\\users\\4m\\source\\repos\\strona\\strona\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4BAF651-7D6C-4FD0-B9E4-7B36AE2949EB}|strona\\strona.esproj|solutionrelative:strona\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Food.jsx",
+              "RelativeDocumentMoniker": "strona\\src\\Food.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Food.jsx",
+              "RelativeToolTip": "strona\\src\\Food.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:32:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Footer.jsx",
+              "RelativeDocumentMoniker": "strona\\src\\Footer.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Footer.jsx",
+              "RelativeToolTip": "strona\\src\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:26:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Header.jsx",
+              "RelativeDocumentMoniker": "strona\\src\\Header.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\Header.jsx",
+              "RelativeToolTip": "strona\\src\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:16:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\main.jsx",
+              "RelativeDocumentMoniker": "strona\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\main.jsx",
+              "RelativeToolTip": "strona\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:11:57.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\App.jsx",
+              "RelativeDocumentMoniker": "strona\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\strona\\strona\\src\\App.jsx",
+              "RelativeToolTip": "strona\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T07:11:52.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

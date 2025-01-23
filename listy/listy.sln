@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "listy", "listy\listy.esproj", "{5C220357-A985-4594-B285-00F7EDE80BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C220357-A985-4594-B285-00F7EDE80BE8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7393B1A5-250A-4C16-950F-5C0E5EE0AC1D}
+	EndGlobalSection
+EndGlobal
