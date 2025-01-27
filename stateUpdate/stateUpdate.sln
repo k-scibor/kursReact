@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "stateupdate", "stateUpdate\stateupdate.esproj", "{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578DC618-8429-4EED-99A6-F633CD028C0D}
+	EndGlobalSection
+EndGlobal

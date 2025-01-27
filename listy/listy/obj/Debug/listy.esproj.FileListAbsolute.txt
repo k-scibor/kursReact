@@ -1,1 +1,2 @@
 C:\Users\4m\source\repos\listy\listy\obj\Debug\listy.esproj.CoreCompileInputs.cache
+C:\Users\4m\Desktop\kursReact\listy\listy\obj\Debug\listy.esproj.CoreCompileInputs.cache

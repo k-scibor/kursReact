@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\tablicaObiektow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119FD26A-60DE-4965-AF34-75F3FDD80318}|tablicaObiektow\\tablicaobiektow.esproj|c:\\users\\4m\\source\\repos\\tablicaobiektow\\tablicaobiektow\\src\\mycomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{119FD26A-60DE-4965-AF34-75F3FDD80318}|tablicaObiektow\\tablicaobiektow.esproj|solutionrelative:tablicaobiektow\\src\\mycomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119FD26A-60DE-4965-AF34-75F3FDD80318}|tablicaObiektow\\tablicaobiektow.esproj|c:\\users\\4m\\source\\repos\\tablicaobiektow\\tablicaobiektow\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{119FD26A-60DE-4965-AF34-75F3FDD80318}|tablicaObiektow\\tablicaobiektow.esproj|solutionrelative:tablicaobiektow\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\tablicaObiektow\\tablicaobiektow\\src\\App.jsx",
+              "RelativeDocumentMoniker": "tablicaobiektow\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\tablicaObiektow\\tablicaobiektow\\src\\App.jsx",
+              "RelativeToolTip": "tablicaobiektow\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T11:54:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\tablicaObiektow\\tablicaobiektow\\src\\MyComponent.jsx",
+              "RelativeDocumentMoniker": "tablicaobiektow\\src\\MyComponent.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\tablicaObiektow\\tablicaobiektow\\src\\MyComponent.jsx",
+              "RelativeToolTip": "tablicaobiektow\\src\\MyComponent.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T11:42:49.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

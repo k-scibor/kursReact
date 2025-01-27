@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\colorPicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96382D7-459E-4412-970A-D94FFEFF852B}|colorPicker\\colorpicker.esproj|c:\\users\\4m\\source\\repos\\colorpicker\\colorpicker\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E96382D7-459E-4412-970A-D94FFEFF852B}|colorPicker\\colorpicker.esproj|solutionrelative:colorpicker\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96382D7-459E-4412-970A-D94FFEFF852B}|colorPicker\\colorpicker.esproj|c:\\users\\4m\\source\\repos\\colorpicker\\colorpicker\\src\\colorpicker.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E96382D7-459E-4412-970A-D94FFEFF852B}|colorPicker\\colorpicker.esproj|solutionrelative:colorpicker\\src\\colorpicker.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\colorPicker\\colorpicker\\src\\App.jsx",
+              "RelativeDocumentMoniker": "colorpicker\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\colorPicker\\colorpicker\\src\\App.jsx*",
+              "RelativeToolTip": "colorpicker\\src\\App.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T10:01:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorPicker.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\colorPicker\\colorpicker\\src\\ColorPicker.jsx",
+              "RelativeDocumentMoniker": "colorpicker\\src\\ColorPicker.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\colorPicker\\colorpicker\\src\\ColorPicker.jsx*",
+              "RelativeToolTip": "colorpicker\\src\\ColorPicker.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T09:54:59.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

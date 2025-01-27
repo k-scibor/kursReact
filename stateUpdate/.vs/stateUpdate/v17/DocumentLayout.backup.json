@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4m\\source\\repos\\stateUpdate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}|stateUpdate\\stateupdate.esproj|c:\\users\\4m\\source\\repos\\stateupdate\\stateupdate\\src\\mycomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}|stateUpdate\\stateupdate.esproj|solutionrelative:stateupdate\\src\\mycomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}|stateUpdate\\stateupdate.esproj|c:\\users\\4m\\source\\repos\\stateupdate\\stateupdate\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D5B43E3A-9BE7-42CD-9E45-2B64F65A9F14}|stateUpdate\\stateupdate.esproj|solutionrelative:stateupdate\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\stateUpdate\\stateupdate\\src\\App.jsx",
+              "RelativeDocumentMoniker": "stateupdate\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\stateUpdate\\stateupdate\\src\\App.jsx",
+              "RelativeToolTip": "stateupdate\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T10:44:42.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\4m\\source\\repos\\stateUpdate\\stateupdate\\src\\MyComponent.jsx",
+              "RelativeDocumentMoniker": "stateupdate\\src\\MyComponent.jsx",
+              "ToolTip": "C:\\Users\\4m\\source\\repos\\stateUpdate\\stateupdate\\src\\MyComponent.jsx",
+              "RelativeToolTip": "stateupdate\\src\\MyComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T10:37:28.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
